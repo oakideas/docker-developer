@@ -36,6 +36,8 @@ E para executar novamente os containers parados com o comando acima, você pode 
 docker compose start
 ```
 
+Você pode encontrar os exemplos de código neste [repositório: https://github.com/oakideas/docker-developer](https://github.com/oakideas/docker-developer). Sinta-se à vontade para clonar o repositório e usar os exemplos conforme necessário.
+
 Sem perder mais tempo, vamos para o primeiro exemplo.
 
 ---

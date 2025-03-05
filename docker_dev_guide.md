@@ -37,6 +37,8 @@ And to restart the containers stopped with the above command, you can use:
 docker compose start
 ```
 
+You can find the example files at [https://github.com/oakideas/docker-developer](https://github.com/oakideas/docker-developer), Feel free to clone the repository and use the examples as you need.
+
 Let's jump straight to the first example.
 
 ---

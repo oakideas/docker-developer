@@ -4,7 +4,7 @@ This guide is a collection of examples of how to setup docker for development.
 
 ## Article
 
-[Como Usar o Docker para Desenvolver Localmente](docker_dev_guide.md)
+[How to Use Docker for Local Development](docker_dev_guide.md)
 
 [Em Português - Como Usar o Docker para Desenvolver Localmente](docker_dev_guide_pt_br.md)
 

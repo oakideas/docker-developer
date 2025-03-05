@@ -502,7 +502,7 @@ Você provavelmente verá um aviso no navegador porque o certificado é autoassi
 
 Agora você tem as bases para criar ambientes de desenvolvimento Docker para seus projetos PHP. Explore, adapte e personalize as configurações para atender às suas necessidades!
 
-Espero que você tenha gostado do artigo. Se tiver alguma dúvida ou quiser contribuir com melhorias (ou correções), sinta-se a vontade para [entrar em contato comigo](https://www.linkedin.com/in/fcsilva/).
+Espero que você tenha gostado do artigo. Se tiver alguma dúvida ou quiser contribuir com melhorias (ou correções), sinta-se a vontade para [entrar em contato comigo](https://www.linkedin.com/in/fcsil/).
 
 
 

@@ -503,4 +503,4 @@ Now, access [https://localhost:8443](https://localhost:8443) (note the **https**
 
 Now you have the basics to create Docker development environments for your PHP projects. Explore, adapt, and customize the configurations to meet your needs!
 
-I hope you enjoyed the article. If you have any questions or would like to contribute improvements (or corrections), feel free to [contact me](https://www.linkedin.com/in/fcsilva/).
+I hope you enjoyed the article. If you have any questions or would like to contribute improvements (or corrections), feel free to [contact me](https://www.linkedin.com/in/fcsil/).
